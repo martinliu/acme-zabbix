@@ -1,0 +1,14 @@
+{
+  "name": "acme-zabbix",
+  "version": "0.1.0",
+  "author": "Martin Liu",
+  "summary": "Puppet Zabbix agent for a SOE demo.",
+  "license": "Apache 2.0",
+  "source": "https://github.com/martinliu/acme-zabbix",
+  "project_page": "https://github.com/martinliu/acme-zabbix",
+  "issues_url": "https://github.com/martinliu/acme-zabbix/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ]
+}
+
