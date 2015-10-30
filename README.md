@@ -1,4 +1,4 @@
-# Zabbix
+# ACME-Zabbix
 
 #### Table of Contents
 
@@ -9,7 +9,6 @@
     * [Setup requirements](#setup-requirements)
     * [Beginning with zabbix](#beginning-with-zabbix)
 4. [Usage](#usage)
-5. [Reference](#reference)
 5. [Limitations](#limitations)
 
 ## Overview
@@ -18,6 +17,7 @@ A puppet module for install and configre zabbix agent on RHEL 6 and 7 OS.
 
 ## Module Description
 It will confgure Zabbix server ip address in configuration file and keeping zabbix agent service runing.
+ACME is demo company name in this SOE demo.
 
 
 ## Setup
